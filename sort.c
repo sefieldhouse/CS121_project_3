@@ -20,13 +20,6 @@ int main(){
   sort(values);
   printf("After: \n");
   printValues(values);
-/*
-  // do the real swapping
-  int x = values[0]
-  int y = values[1]
-  swap(&x, &y);
-  printValues(values[]);
-  */
   return(0);
 } // end main
 
